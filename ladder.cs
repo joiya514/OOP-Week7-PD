@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Week7_Tasks.BL
+{
+    public class ladder : FireTrucks
+    {
+        double length;
+        double color;
+    }
+}
